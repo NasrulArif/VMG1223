@@ -18,6 +18,8 @@ b) Using an architecture / configuration in which functions are designed in such
 
 ### PROGRESS B - POSSIBLE SOLUTIONS CLARIFICATION
 
+[Click here](https://github.com/NasrulArif/VMG1223/blob/06a23a5b3b2a1a3cfaa17f799e407d21809dd22e/PART%203%20-%20FINAL%20SUBMISSION/Technical%20Assessment/Nasrul%20Arif%20-%20Technical%20Assessment.pdf) to view the documentation.
+
 1. Using Automated Testing Tools
 - Assuming that this case is developed in web and mobile platform.
 - Thus we can use Selenium for web and Appium for mobile (Selenium based framework) to conduct automated testing.
@@ -32,4 +34,4 @@ b) Using an architecture / configuration in which functions are designed in such
 
 ## PART 2 - WRITING
 
-In this assessment, I have conducted research regarding Monolithic and Microservices architecture.
+In this assessment, I have conducted research regarding Monolithic and Microservices architecture. [Click here](https://github.com/NasrulArif/VMG1223/blob/06a23a5b3b2a1a3cfaa17f799e407d21809dd22e/PART%203%20-%20FINAL%20SUBMISSION/Writing%20Assessment/Nasrul%20Arif%20-%20Writing%20Assessment.pdf) to view the proposal.
