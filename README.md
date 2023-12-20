@@ -32,6 +32,10 @@ b) Using an architecture / configuration in which functions are designed in such
 - A changes will only need to be done once and will be reflected as well in other services that call it.
 - Another way is to store every API endpoints string in a single file that can be fetched by other services, thus when there are changes in the API endpoints string, less testing required unless the changes affect the data representation (datatype, formatting etc).
 
+### To understand more please go to this [Explanation Video](https://youtu.be/evbD8yUVG3A)
+
+---
+
 ## PART 2 - WRITING
 
 In this assessment, I have conducted research regarding Monolithic and Microservices architecture. [Click here](https://github.com/NasrulArif/VMG1223/blob/06a23a5b3b2a1a3cfaa17f799e407d21809dd22e/PART%203%20-%20FINAL%20SUBMISSION/Writing%20Assessment/Nasrul%20Arif%20-%20Writing%20Assessment.pdf) to view the proposal.
