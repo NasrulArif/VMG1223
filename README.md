@@ -1,9 +1,9 @@
 # VMG1223
 ViMiGo Assessment - NASRUL ARIF BIN ZAKRIA
 
-######### PART 1 - TECHNICAL ######### 
+## PART 1 - TECHNICAL
 
-=== PROGRESS A - ANALYSIS OF CASE STUDY ===
+### PROGRESS A - ANALYSIS OF CASE STUDY
 
 1. Problem statement:
 - There are three services denoted as Service A, Service B and Service C.
@@ -16,7 +16,7 @@ ViMiGo Assessment - NASRUL ARIF BIN ZAKRIA
 a) Using automated testing tools such as Selenium in which script can be written specifically for each Services.
 b) Using an architecture / configuration in which functions are designed in such a way that when there is data / variable changes, will reflect other area that are related.
 
-=== PROGRESS B - POSSIBLE SOLUTIONS CLARIFICATION ===
+### PROGRESS B - POSSIBLE SOLUTIONS CLARIFICATION
 
 1. Using Automated Testing Tools
 - Assuming that this case is developed in web and mobile platform.
@@ -30,4 +30,6 @@ b) Using an architecture / configuration in which functions are designed in such
 - A changes will only need to be done once and will be reflected as well in other services that call it.
 - Another way is to store every API endpoints string in a single file that can be fetched by other services, thus when there are changes in the API endpoints string, less testing required unless the changes affect the data representation (datatype, formatting etc).
 
-######### PART 2 - WRITING ######### 
+## PART 2 - WRITING
+
+In this assessment, I have conducted research regarding Monolithic and Microservices architecture.

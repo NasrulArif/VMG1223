@@ -1,0 +1,27 @@
+{
+    "ServiceA": {
+      "endpoints": {
+        "getProfile": "/user/profile",
+        "update": "/user/update",
+        "preferences": "/user/preferences",
+        "history": "/user/history"
+      }
+    },
+    "ServiceB": {
+      "endpoints": {
+        "playlist": "/recommendations/playlist",
+        "trending": "/recommendations/trending",
+        "genre": "/recommendations/genre",
+        "personalized": "/recommendations/personalized"
+      }
+    },
+    "ServiceC": {
+      "endpoints": {
+        "status": "/subscription/status",
+        "upgrade": "/subscription/upgrade",
+        "cancel": "/subscription/cancel",
+        "billing": "/subscription/billing"
+      }
+    }
+  }
+  
